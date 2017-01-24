@@ -1,4 +1,4 @@
-package com.dragonberg.asynccall.client;
+package com.dragonberg.asynccall.client.api;
 
 public interface IResult {
 	/**

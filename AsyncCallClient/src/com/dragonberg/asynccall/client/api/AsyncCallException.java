@@ -1,4 +1,4 @@
-package com.dragonberg.asynccall.client;
+package com.dragonberg.asynccall.client.api;
 
 /**
  * 异步调用异常。
