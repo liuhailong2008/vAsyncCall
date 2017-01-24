@@ -3,6 +3,7 @@
 #eclipse workplace
 .metadata/
 RemoteSystemsTempFiles/
+.recommenders/
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
