@@ -1,5 +1,9 @@
 *.class
 
+#eclipse workplace
+.metadata/
+RemoteSystemsTempFiles/
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
