@@ -6,7 +6,7 @@ package com.dragonberg.asynccall.client;
  * @author liuhailong_1982@qq.com
  *
  */
-public class AsyncCallClient {
+public class AsyncCall {
 	
 	/**
 	 * <h3>根据配置信息获取AsyncCall实例</h3>
